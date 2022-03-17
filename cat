@@ -1,5 +1,7 @@
+#step1
 print("Hello World!")
 
+#step3
 print("\\    /\\")
 print(" )  ( ')")
 print("(  /  )")
