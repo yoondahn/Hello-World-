@@ -1,0 +1,9 @@
+#step 6
+a,b = map(int, input().split())
+print(a-b)
+#step 7
+a,b = map(int, input().split())
+print(a*b)
+#step 8
+a,b = map(int, input().split())
+print(a/b)
