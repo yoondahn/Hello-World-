@@ -1,5 +1,5 @@
 # step 5
 a,b = map(int, input().split())
 print(a+b)
-# map 함수
+# map 함수 / map(function, iterable)
 # 문자열.spilt() : 문자열에서 띄어쓰기, 엔터를 기준으로 문자열을 나누어 저장
